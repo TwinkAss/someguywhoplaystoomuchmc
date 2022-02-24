@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @someguywhoplaystoomuchmc
-- 👀 I’m interested in minecradr
+- 👀 I’m interested in minecraft
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: uhh my account?
